@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoysheO.Extensions.LoggerFactory", "BoysheO.Extensions.LoggerFactory\BoysheO.Extensions.LoggerFactory.csproj", "{89EC41DA-FCF2-4032-9A93-9A865956ECF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89EC41DA-FCF2-4032-9A93-9A865956ECF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EC41DA-FCF2-4032-9A93-9A865956ECF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EC41DA-FCF2-4032-9A93-9A865956ECF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EC41DA-FCF2-4032-9A93-9A865956ECF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
